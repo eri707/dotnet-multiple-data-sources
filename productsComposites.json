@@ -1,0 +1,72 @@
+[
+  {
+    "ProductId": 1,
+    "ProductName": "Mazda CX-3",
+    "Category": "crossover",
+    "Price": 300,
+    "Discount": null
+  },
+  {
+    "ProductId": 2,
+    "ProductName": "Mazda CX-5",
+    "Category": "crossover",
+    "Price": 499,
+    "Discount": null
+  },
+  {
+    "ProductId": 3,
+    "ProductName": "Mazda 3",
+    "Category": "sedan",
+    "Price": 300,
+    "Discount": 0.3
+  },
+  {
+    "ProductId": 4,
+    "ProductName": "Toyota RAV4",
+    "Category": "crossover",
+    "Price": null,
+    "Discount": null
+  },
+  {
+    "ProductId": 5,
+    "ProductName": "Toyota Corolla",
+    "Category": "sedan",
+    "Price": 615,
+    "Discount": 0.1
+  },
+  {
+    "ProductId": 6,
+    "ProductName": "Toyota Tundra",
+    "Category": "truck",
+    "Price": 950,
+    "Discount": null
+  },
+  {
+    "ProductId": 7,
+    "ProductName": "Honda Civic",
+    "Category": "sedan",
+    "Price": 1000,
+    "Discount": 0.2
+  },
+  {
+    "ProductId": 8,
+    "ProductName": "Honda CRV",
+    "Category": "crossover",
+    "Price": 350,
+    "Discount": null
+  },
+  {
+    "ProductId": 9,
+    "ProductName": "Nissan Rogue",
+    "Category": "crossover",
+    "Price": null,
+    "Discount": null
+  },
+  {
+    "ProductId": 10,
+    "ProductName": "Nissan Leaf",
+    "Category": "hatchback",
+    "Price": 445,
+    "Discount": null
+  }
+]

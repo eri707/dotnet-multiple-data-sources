@@ -1,0 +1,53 @@
+[
+    {
+      "ProductId": 1,
+      "ProductName": "Mazda CX-3",
+      "Category": "crossover"
+    },
+    {
+      "ProductId": 2,
+      "ProductName": "Mazda CX-5",
+      "Category": "crossover"
+    },
+    {
+      "ProductId": 3,
+      "ProductName": "Mazda 3",
+      "Category": "sedan"
+    },
+    {
+      "ProductId": 4,
+      "ProductName": "Toyota RAV4",
+      "Category": "crossover"
+    },
+    {
+      "ProductId": 5,
+      "ProductName": "Toyota Corolla",
+      "Category": "sedan"
+    },
+    {
+      "ProductId": 6,
+      "ProductName": "Toyota Tundra",
+      "Category": "truck"
+    },
+    {
+      "ProductId": 7,
+      "ProductName": "Honda Civic",
+      "Category": "sedan"
+    },
+    {
+      "ProductId": 8,
+      "ProductName": "Honda CRV",
+      "Category": "crossover"
+    },
+    {
+      "ProductId": 9,
+      "ProductName": "Nissan Rogue",
+      "Category": "crossover"
+    },
+    {
+      "ProductId": 10,
+      "ProductName": "Nissan Leaf",
+      "Category": "hatchback"
+    }
+  ]
+  

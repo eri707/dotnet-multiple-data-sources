@@ -1,0 +1,34 @@
+[
+    {
+      "productId": 1,
+      "price": 300
+    },
+    {
+      "productId": 2,
+      "price": 499
+    },
+    {
+      "productId": 3,
+      "price": 300
+    },
+    {
+      "productId": 5,
+      "price": 615
+    },
+    {
+      "productId": 6,
+      "price": 950
+    },
+    {
+      "productId": 7,
+      "price": 1000
+    },
+    {
+      "productId": 8,
+      "price": 350
+    },
+    {
+      "productId": 10,
+      "price": 445
+    }
+  ]
